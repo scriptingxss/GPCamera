@@ -1,0 +1,14 @@
+goprocam
+gatt
+gattlib
+pybluez
+wifi
+pandas
+#apt-get install libboost-all-dev
+#pkg-config
+#libboost-python-dev
+#libboost-thread-dev
+#libbluetooth-dev >= 4.101
+#libglib2.0-dev
+#python-dev
+#
